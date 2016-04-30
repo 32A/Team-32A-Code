@@ -1,4 +1,4 @@
-#pragma config(UserModel, "C:/Users/Jason Ouyang/Documents/RobotC Programs/32A-Config.c")
+#pragma config(UserModel, 32A-Config.c)
 
 /**
 * Simple Code Blocks
